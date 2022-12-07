@@ -19,4 +19,3 @@ Rooms. Adding task to database read/write functionality. Some cleanup.
 !![](screenshots/Screenshot_20221206_193041.png)[](screenshots/Screenshot_20221205_142028.png)
 ![](screenshots/Screenshot_20221205_141950.png)
 ![2](screenshots/DEC1.2.png)
-
