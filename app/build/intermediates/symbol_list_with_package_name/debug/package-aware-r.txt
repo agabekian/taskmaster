@@ -2644,6 +2644,10 @@ drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 id ALT
+id AddATaskETName
+id AddTaskBody
+id AddTaskSaveBttn
+id AddTaskSpinnerState
 id BOTTOM_END
 id BOTTOM_START
 id CTRL
@@ -2651,7 +2655,6 @@ id FUNCTION
 id META
 id MyTaskFrag
 id MyTaskFragTVName
-id MyTaskFragTVType
 id NO_DEBUG
 id SHIFT
 id SHOW_ALL
@@ -3076,7 +3079,6 @@ id tag_transition_group
 id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
 id tag_window_insets_animation_callback
-id taskStatusView
 id taskTextView
 id taskTextView2
 id text
@@ -3257,6 +3259,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_add_task
 layout activity_all_tasks
 layout activity_main
 layout activity_my_task
