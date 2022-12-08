@@ -30,6 +30,9 @@
 Odd bug - running Espresso test will wipe out data in
 virtual phone's database
 
+
 ![](screenshots/splash.png)
 
-![](screenshots/Tasks.png)![](screenshots/form.png)
+![](screenshots/Tasks.png)
+![](screenshots/form.png)
+
