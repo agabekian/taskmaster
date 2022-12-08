@@ -1,9 +1,11 @@
 package com.armasconi.taskmaster.activities;
 
+import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.room.Room;
 
 import android.os.Bundle;
+import android.view.MenuItem;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.EditText;
@@ -26,6 +28,11 @@ public class AddTask extends AppCompatActivity {
         protected void onCreate(Bundle savedInstanceState) {
             super.onCreate(savedInstanceState);
             setContentView(R.layout.activity_add_task);
+
+            ActionBar actionBar = getSupportActionBar();
+            actionBar.setDisplayHomeAsUpEnabled(true); //back button
+            actionBar.setHomeButtonEnabled(true);
+
             taskStateSpinner = findViewById(R.id.AddTaskSpinnerState);
             //TODO Step: 5-6 instantiate the DB wherever you need it
             taskMasterDatabase = Room.databaseBuilder(
@@ -63,5 +70,17 @@ public class AddTask extends AppCompatActivity {
                 Toast.makeText(this, "New task added!", Toast.LENGTH_SHORT).show();
             });
         }
+
+    @Override
+    //actual back button functionality as per AI
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()) {
+            case android.R.id.home:
+                finish();
+                return true;
+            default:
+                return super.onOptionsItemSelected(item);
+        }
+    }
     }
 //
