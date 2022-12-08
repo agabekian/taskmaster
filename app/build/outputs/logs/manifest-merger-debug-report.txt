@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:2:1-69:12
-INJECTED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:2:1-69:12
-INJECTED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:2:1-69:12
-INJECTED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:2:1-69:12
+ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:2:1-72:12
+INJECTED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:2:1-72:12
+INJECTED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:2:1-72:12
+INJECTED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:2:1-72:12
 MERGED from [androidx.room:room-runtime:2.4.3] /Users/armasconi/.gradle/caches/transforms-3/4c4bbe8def8631c1151c061ee75b6868/transformed/room-runtime-2.4.3/AndroidManifest.xml:17:1-31:12
 MERGED from [com.google.android.material:material:1.7.0] /Users/armasconi/.gradle/caches/transforms-3/459731560744495d36c7572f4eaf1462/transformed/material-1.7.0/AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/armasconi/.gradle/caches/transforms-3/229612c218d9fe79705dc19c7f400585/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
@@ -47,27 +47,27 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/armasconi/.gradle/
 MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/armasconi/.gradle/caches/transforms-3/56a60aa11c00550ac2067dc311230fea/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/armasconi/.gradle/caches/transforms-3/5c31521eb266c26ef211a1f53b56b07e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /Users/armasconi/.gradle/caches/transforms-3/66860c319137074465b1f3af9d4ca7e4/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:2:1-69:12
-INJECTED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:2:1-69:12
-INJECTED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:2:1-69:12
+INJECTED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:2:1-72:12
+INJECTED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:2:1-72:12
+INJECTED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:2:1-72:12
 	package
-		INJECTED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml
-		ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:2:1-69:12
-		INJECTED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml
+		ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:2:1-72:12
+		INJECTED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml
-		ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:2:1-69:12
-		INJECTED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml
+		ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:2:1-72:12
+		INJECTED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:3:5-51
+		ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml
-		ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:2:1-69:12
-		INJECTED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml
+		ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:2:1-72:12
+		INJECTED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:5:5-66:19
+ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:5:5-70:19
 MERGED from [androidx.room:room-runtime:2.4.3] /Users/armasconi/.gradle/caches/transforms-3/4c4bbe8def8631c1151c061ee75b6868/transformed/room-runtime-2.4.3/AndroidManifest.xml:24:5-29:19
 MERGED from [androidx.room:room-runtime:2.4.3] /Users/armasconi/.gradle/caches/transforms-3/4c4bbe8def8631c1151c061ee75b6868/transformed/room-runtime-2.4.3/AndroidManifest.xml:24:5-29:19
 MERGED from [com.google.android.material:material:1.7.0] /Users/armasconi/.gradle/caches/transforms-3/459731560744495d36c7572f4eaf1462/transformed/material-1.7.0/AndroidManifest.xml:24:5-20
@@ -87,85 +87,85 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/arma
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.8.0] /Users/armasconi/.gradle/caches/transforms-3/87a796fe63836d99a2198ac6a6284cb3/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:10:9-41
+		ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:10:9-41
 	android:fullBackupContent
-		ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:8:9-54
+		ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:8:9-54
 	android:roundIcon
-		ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:11:9-54
+		ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:11:9-54
 	tools:targetApi
-		ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:14:9-29
+		ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:14:9-29
 	android:icon
-		ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:9:9-43
+		ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:13:9-48
+		ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:13:9-48
 	android:dataExtractionRules
-		ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:7:9-65
-activity#com.armasconi.taskmaster.AddTask
-ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:15:9-21:20
+		ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:7:9-65
+activity#com.armasconi.taskmaster.ActivityHelper
+ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:15:9-21:20
 	android:exported
-		ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:17:13-37
+		ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:17:13-37
 	android:name
-		ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:16:13-36
+		ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:16:13-43
 meta-data#android.app.lib_name
-ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:18:13-20:36
+ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:18:13-20:36
 	android:value
-		ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:20:17-33
+		ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:20:17-33
 	android:name
-		ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:19:17-52
+		ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:19:17-52
+activity#com.armasconi.taskmaster.AddTask
+ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:22:9-28:20
+	android:exported
+		ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:23:13-36
 activity#com.armasconi.taskmaster.activities.Settings
-ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:22:9-28:20
+ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:29:9-35:20
 	android:exported
-		ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:24:13-37
+		ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:31:13-37
 	android:name
-		ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:23:13-48
+		ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:30:13-48
 activity#com.armasconi.taskmaster.activities.MyTasksActivity
-ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:29:9-35:20
+ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:36:9-42:20
 	android:exported
-		ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:31:13-37
+		ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:38:13-37
 	android:name
-		ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:30:13-55
+		ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:37:13-55
 activity#com.armasconi.taskmaster.activities.TaskDetails
-ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:36:9-42:20
+ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:43:9-49:20
 	android:exported
-		ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:38:13-37
+		ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:45:13-37
 	android:name
-		ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:37:13-51
+		ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:44:13-51
 activity#com.armasconi.taskmaster.activities.AddTask
-ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:43:9-49:20
+ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:50:9-56:20
 	android:exported
-		ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:45:13-37
+		ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:52:13-37
 	android:name
-		ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:44:13-47
+		ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:51:13-47
 activity#com.armasconi.taskmaster.activities.MainActivity
-ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:50:9-62:20
+ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:57:9-69:20
 	android:exported
-		ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:52:13-36
+		ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:59:13-36
 	android:name
-		ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:51:13-52
+		ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:58:13-52
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:53:13-57:29
+ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:60:13-64:29
 action#android.intent.action.MAIN
-ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:54:17-69
+ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:61:17-69
 	android:name
-		ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:54:25-66
+		ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:61:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:56:17-77
+ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:63:17-77
 	android:name
-		ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:56:27-74
-activity#com.armasconi.taskmaster.activities.AllTasks
-ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:63:9-65:40
-	android:exported
-		ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:65:13-37
-	android:name
-		ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml:64:13-48
+		ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml:63:27-74
 uses-sdk
-INJECTED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml
-INJECTED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml
+INJECTED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml
+INJECTED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml
 MERGED from [androidx.room:room-runtime:2.4.3] /Users/armasconi/.gradle/caches/transforms-3/4c4bbe8def8631c1151c061ee75b6868/transformed/room-runtime-2.4.3/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.room:room-runtime:2.4.3] /Users/armasconi/.gradle/caches/transforms-3/4c4bbe8def8631c1151c061ee75b6868/transformed/room-runtime-2.4.3/AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.android.material:material:1.7.0] /Users/armasconi/.gradle/caches/transforms-3/459731560744495d36c7572f4eaf1462/transformed/material-1.7.0/AndroidManifest.xml:20:5-22:41
@@ -252,16 +252,16 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/armasconi/.gradle/caches/transforms-3/5c31521eb266c26ef211a1f53b56b07e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] /Users/armasconi/.gradle/caches/transforms-3/66860c319137074465b1f3af9d4ca7e4/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] /Users/armasconi/.gradle/caches/transforms-3/66860c319137074465b1f3af9d4ca7e4/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
-INJECTED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml
-INJECTED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml
+INJECTED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml
+INJECTED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml
-		ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml
+		ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml
-		ADDED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/armasconi/AndroidStudioProjects/taskmaster/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml
+		ADDED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/armasconi/AndroidStudioProjects/backup/taskmaster/app/src/main/AndroidManifest.xml
 service#androidx.room.MultiInstanceInvalidationService
 ADDED from [androidx.room:room-runtime:2.4.3] /Users/armasconi/.gradle/caches/transforms-3/4c4bbe8def8631c1151c061ee75b6868/transformed/room-runtime-2.4.3/AndroidManifest.xml:25:9-28:40
 	android:exported

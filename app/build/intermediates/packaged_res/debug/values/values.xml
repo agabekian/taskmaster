@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="bgColor">#F0F5F9</color>
     <color name="black">#969696</color>
     <color name="button_background_color">#4a708b</color>
     <color name="offwhite">#f7f7f7</color>
@@ -31,5 +32,7 @@
         
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         
+        <item name="android:colorBackground">@color/bgColor</item>
+        <item name="android:textColor">@color/black</item>
     </style>
 </resources>

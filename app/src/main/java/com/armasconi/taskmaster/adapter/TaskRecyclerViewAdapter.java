@@ -41,18 +41,24 @@ public class TaskRecyclerViewAdapter extends androidx.recyclerview.widget.Recycl
     @Override
     public void onBindViewHolder(@NonNull MyTaskViewHolder holder, int position) {
         // TODO Step 2-4: (In RecyclerViewAdapter.onBindViewHolder()) Bind data items to Fragments inside of ViewHolders
-        TextView taskFragmentTextViewName = holder.itemView.findViewById(R.id.MyTaskFragTVName);
+        TextView taskFragTVName = holder.itemView.findViewById(R.id.MyTaskFragTVName);
+        TextView taskFragTVDate = holder.itemView.findViewById(R.id.dateTag);
+        TextView taskFragTVState = holder.itemView.findViewById(R.id.MyTaskFragTVState);
+        TextView taskFragTVBody = holder.itemView.findViewById(R.id.MyTaskFragTVBody);
         // TODO Step 6-2 refactor the rendering
         MyTask task = allTasks.get(position);
-        taskFragmentTextViewName.setText((position+1) + ". " + task.getTitle()
-                + "\n" + task.getState()
-                + "\n" + task.getDatePosted());
+        taskFragTVDate.setText("on "+task.getDatePosted());
+        taskFragTVBody.setText(task.getBody());
+        taskFragTVState.setText(""+task.getState());
+        taskFragTVName.setText((position+1) + ". " + task.getTitle());
+
         // TODO Step 3-3: (In RecyclerViewAdapter.onBindViewHolder()) Create OnClickListener, make an Intent inside it, and call this Intent with an Extra to go to another Activity
         View taskItemView = holder.itemView;
         taskItemView.setOnClickListener(v -> {
-            Intent goToOrderFormIntent = new Intent(callingActivity, TaskDetails.class);
-            goToOrderFormIntent.putExtra(MyTasksActivity.MY_TASK_NAME, task.getTitle());
-            callingActivity.startActivity(goToOrderFormIntent);
+            Intent goToTaskDetails = new Intent(callingActivity, TaskDetails.class);
+            goToTaskDetails.putExtra(MyTasksActivity.MY_TASK_NAME, task.getTitle());
+            goToTaskDetails.putExtra(MyTasksActivity.MY_TASK_BODY, task.getBody());
+            callingActivity.startActivity(goToTaskDetails);
         });
     }
 //    @Override

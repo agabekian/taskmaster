@@ -1267,6 +1267,7 @@ color background_floating_material_dark
 color background_floating_material_light
 color background_material_dark
 color background_material_light
+color bgColor
 color black
 color bright_foreground_disabled_material_dark
 color bright_foreground_disabled_material_light
@@ -2559,6 +2560,7 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable fizz
 drawable ic_baseline_ac_unit_24
 drawable ic_baseline_surfing_24
 drawable ic_clock_black_24dp
@@ -2640,6 +2642,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable rounded_corner
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -2654,7 +2657,9 @@ id CTRL
 id FUNCTION
 id META
 id MyTaskFrag
+id MyTaskFragTVBody
 id MyTaskFragTVName
+id MyTaskFragTVState
 id NO_DEBUG
 id SHIFT
 id SHOW_ALL
@@ -2791,6 +2796,7 @@ id currentState
 id custom
 id customPanel
 id cut
+id dateTag
 id date_picker_actions
 id decelerate
 id decelerateAndComplete
@@ -3088,7 +3094,6 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
-id textView
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3260,7 +3265,6 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_add_task
-layout activity_all_tasks
 layout activity_main
 layout activity_my_task
 layout activity_settings
