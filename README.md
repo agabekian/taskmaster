@@ -1,9 +1,7 @@
 # Task Meister
 
 #### Todo app #9999999999999999 (Android)
-<img src="Screenshots/Splash.png" alt="drawing" width="200"/>
-<img src="Screenshots/Tasks.png" alt="drawing" width="200"/>
-<img src="Screenshots/Form.png" alt="drawing" width="200"/>
+
 
 
 ```12.01.2022 v.0.10a ```
@@ -32,5 +30,6 @@
 Odd bug - running Espresso test will wipe out data in
 virtual phone's database
 
+![](screenshots/splash.png)
 
-
+![](screenshots/Tasks.png)![](screenshots/form.png)
